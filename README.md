@@ -30,3 +30,9 @@ In this practicum, we have learned about how to make a database on Vercel and co
 Capture the results of deploying your project and create a report in the README.md file . Explain what you have learned?
 ## ANswer
 In this practicum, we have learned about seeding the data into the configured database. During the seeding process, there are some errors encountered such as missing dotenv, bcrypt, and data.js modules. However, this could be resolved by installing the necessary modules and changing the directory of the data.js file in the seed.js file.
+
+![Screenshot](assets/06.png)
+## Question 4
+Capture queryyour results and create a report in the README.md file . Explain what you have learned? Try executing another SQL query according to your creation, capture the results and explain them!
+## ANswer
+In this practicum, we learned to query on the database on vercel. We also create a query of our own.

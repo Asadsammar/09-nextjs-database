@@ -60,6 +60,7 @@ In this practicum, we have visualized the data into the form of bar chart. The c
 
 ![Screenshot](assets/09.png)
 
+If you look at the file src\app\page.tsxfor the component, Cardit has actually been created as a molecule in the file src\app\components\molecules\card.tsx, namely component CardWrapper. Please adjust it so that it looks like the following image.
 ![Screenshot](assets/10.png)
 ## Practical Question
 Pay attention to the function fetchCardData()(in the file src\model\query.tsx) from question number 1. Explain the meaning of the code and query carried out in the function!

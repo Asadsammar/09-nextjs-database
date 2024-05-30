@@ -46,9 +46,16 @@ In this practicum, we have learned that vercel provide a server that we can use 
 
 ![Screenshot](assets/07.png)
 
-## Question 5
+## Question 6
 Capture and push the results, then create a report in the README.md file . Explain what you have learned?
 ## ANswer
 In this practicum, we have visualized the data into the form of bar chart. The chart is still not graphically pleasing, however it already served the purpose of data visualization.
 
 ![Screenshot](assets/08.png)
+
+## Question 7
+Capture and push the results, then create a report in the README.md file . Explain what you have learned?
+## ANswer
+In this practicum, we have visualized the data into the form of bar chart. The chart is still not graphically pleasing, however it already served the purpose of data visualization.
+
+![Screenshot](assets/09.png)

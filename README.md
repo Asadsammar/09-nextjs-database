@@ -45,3 +45,10 @@ Do a push, then pay attention to your Vercel project dashboard account. Capture 
 In this practicum, we have learned that vercel provide a server that we can use for our app, now we don't need for local server anymore.
 
 ![Screenshot](assets/07.png)
+
+## Question 5
+Capture and push the results, then create a report in the README.md file . Explain what you have learned?
+## ANswer
+In this practicum, we have visualized the data into the form of bar chart. The chart is still not graphically pleasing, however it already served the purpose of data visualization.
+
+![Screenshot](assets/08.png)

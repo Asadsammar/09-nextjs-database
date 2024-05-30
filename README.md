@@ -11,11 +11,7 @@
 
 ![Screenshot](assets/02.png)
 
-![Screenshot](assets/03.png)
-
-![Screenshot](assets/04.png)
 ## Question 1,2
-What is the difference between the Form_2first function and the second?
-Why do you need to delete state fullName? What are the advantages?
+Capture the results of deploying your project and create a report in the README.md file . Explain what you have learned?
 ## ANswer
-Form is a game-related form, while Form2 deals with capturing and displaying user names. Deleting the fullName state in Form2 streamlines the component and improves efficiency.
+By these steps i undestand that Vercel is a cloud platform for static sites and serverless functions, designed to make it easy to deploy websites and applications. It provides a seamless experience for us to deploy, manage, and scale our projects with minimal configuration.

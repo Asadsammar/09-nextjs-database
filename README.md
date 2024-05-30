@@ -38,3 +38,10 @@ Capture queryyour results and create a report in the README.md file . Explain wh
 In this practicum, we learned to query on the database on vercel. We also create a query of our own.
 
 ![Screenshot](assets/06.png)
+
+## Question 5
+Do a push, then pay attention to your Vercel project dashboard account. Capture and attach a link to your application that has been successfully deployed, then create a report in the README.md file . Explain what you have learned?
+## ANswer
+In this practicum, we have learned that vercel provide a server that we can use for our app, now we don't need for local server anymore.
+
+![Screenshot](assets/07.png)

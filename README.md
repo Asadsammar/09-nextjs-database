@@ -59,10 +59,12 @@ Capture and push the results, then create a report in the README.md file . Expla
 In this practicum, we have visualized the data into the form of bar chart. The chart is still not graphically pleasing, however it already served the purpose of data visualization.
 
 ![Screenshot](assets/09.png)
-
+## Practical Question1
 If you look at the file src\app\page.tsxfor the component, Cardit has actually been created as a molecule in the file src\app\components\molecules\card.tsx, namely component CardWrapper. Please adjust it so that it looks like the following image.
+
+## Output
 ![Screenshot](assets/10.png)
-## Practical Question
+## Practical Question2
 Pay attention to the function fetchCardData()(in the file src\model\query.tsx) from question number 1. Explain the meaning of the code and query carried out in the function!
 ## ANswer
 The fetchCardData() is used to fetch data that are used in the cards displayed above the current revenue. In that code, there are multiple declarations that specifies the SQL query that is going to be executed. For example, the invoiceCountPromise is used to execute SELECT COUNT(*) FROM invoices, which will count all invoice data. The same also goes to customerCountPromise. The invoiceStatusPromise describes the sum of invoices that are paid and pending.

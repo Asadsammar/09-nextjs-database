@@ -69,3 +69,7 @@ Pay attention to the function fetchCardData()(in the file src\model\query.tsx) f
 ## ANswer
 The fetchCardData() is used to fetch data that are used in the cards displayed above the current revenue. In that code, there are multiple declarations that specifies the SQL query that is going to be executed. For example, the invoiceCountPromise is used to execute SELECT COUNT(*) FROM invoices, which will count all invoice data. The same also goes to customerCountPromise. The invoiceStatusPromise describes the sum of invoices that are paid and pending.
 After executing these commands, the program will then returns the data to the system and displays it in the card molecule.
+
+## Practicum Week 10
+
+![Screenshot](assets/11.png)
